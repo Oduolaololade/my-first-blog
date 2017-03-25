@@ -1,0 +1,5 @@
+def Welcome(name):
+	print("welcome" + name + "!")
+
+girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'You']
+for name in girls:
